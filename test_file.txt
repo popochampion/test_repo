@@ -1,2 +1,3 @@
 Just making some changes
-on the new branch
+Just making some changes on the new branch
+Just making some changes remotely on GitHub
